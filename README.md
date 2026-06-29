@@ -1,6 +1,5 @@
-# Portfolio
-Shows the apps and the tools that has been used to develop the marketing approach 
-# Portfolio Project — Setup Log
+ 
+# Portfolio Project - Setup Log
 
 This repository documents the first step: installing the required tools, setting up a public GitHub repository, and recording the process. Below is a plain account of what I installed, the steps I completed.
 
